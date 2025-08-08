@@ -4,6 +4,4 @@
 A small challenege to do all 2021 advent of code elements without any if statements.
 Things that emulate if statements, such as one-time for loops or while loops on a specific condition are discouraged.
 
-Let me know if you have any questions!
-
 Carter
